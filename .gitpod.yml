@@ -3,16 +3,17 @@
 # and commit this file to your remote git repository to share the goodness with others.
 
 tasks:
-  - init: bundle install
-  - before: >
+  - name: Terminal 1
+    init: >
       mkdir -p ~/.ssh &&
       echo $SSH_PUBLIC_KEY > ~/.ssh/id_rsa.pub &&
       chmod 644 ~/.ssh/id_rsa.pub &&
       echo $SSH_PRIVATE_KEY > ~/.ssh/id_rsa &&
-      chmod 600 ~/.ssh/id_rsa
-  - after: >
+      chmod 600 ~/.ssh/id_rsa &&
       eval "$(ssh-agent -s)" &&
-      ssh-add ~/.ssh/id_rsa
-
-
-
+      ssh-add ~/.ssh/id_rsa &&
+      git remote set-url --push origin git@github.com:winson-itpro2-com/dayOneRepo.git &&
+      git remote set-url --push origin git@github.com:winson-itpro2-com/dayOneRepo.git &&
+      git remote -v
+  - name: Terminal 2
+    init: bundle install
