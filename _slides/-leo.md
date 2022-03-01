@@ -1,7 +1,9 @@
 ---
 layout: slide
-title: "Fix"
+title: "Welcome to our slide deck!"
+---
 
+ABCDE
 
 ![dodgetocat](https://octodex.github.com/images/dodgetocat_v2.png)
 {: .center}
