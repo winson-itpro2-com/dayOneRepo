@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Hello, Welcome to our slide deck!"
+title: "Hello! Welcome to our slide deck!"
 ---
 
 Caption here
