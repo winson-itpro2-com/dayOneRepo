@@ -1,10 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to my deck!"
 ---
 
-Let Me Google That For You... .....
-
+Hello all !!!!!
 
 ![droidtocat](https://octodex.github.com/images/droidtocat.png)
 {: .center}
