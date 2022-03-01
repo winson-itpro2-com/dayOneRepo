@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Hello world!"
+title: "LKS"
 ---
 
 Caption here
