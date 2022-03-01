@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Hi! I enjoyed the course.
 
-![riddlocat](https://octodex.github.com/images/riddlocat.png)
+![stand-with-ukraine](https://i2.wp.com/picjumbo.com/wp-content/uploads/stand-with-ukraine-free-photo.jpg)
 {: .center}
