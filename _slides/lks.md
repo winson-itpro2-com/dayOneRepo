@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "LKS"
+title: "Welcome to our slide deck!"
 ---
 
-Caption here
+LKS
 
 ![jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
 {: .center}
